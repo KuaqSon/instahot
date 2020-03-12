@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/instahot/static/css/main.eab24d3c.chunk.css",
+    "main.js": "/instahot/static/js/main.a3b8b35a.chunk.js",
+    "main.js.map": "/instahot/static/js/main.a3b8b35a.chunk.js.map",
+    "runtime-main.js": "/instahot/static/js/runtime-main.9d513220.js",
+    "runtime-main.js.map": "/instahot/static/js/runtime-main.9d513220.js.map",
+    "static/js/2.faa5b042.chunk.js": "/instahot/static/js/2.faa5b042.chunk.js",
+    "static/js/2.faa5b042.chunk.js.map": "/instahot/static/js/2.faa5b042.chunk.js.map",
+    "index.html": "/instahot/index.html",
+    "precache-manifest.c16d9a342955c3d7445ed7a5cc945734.js": "/instahot/precache-manifest.c16d9a342955c3d7445ed7a5cc945734.js",
+    "service-worker.js": "/instahot/service-worker.js",
+    "static/css/main.eab24d3c.chunk.css.map": "/instahot/static/css/main.eab24d3c.chunk.css.map",
+    "static/js/2.faa5b042.chunk.js.LICENSE.txt": "/instahot/static/js/2.faa5b042.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d513220.js",
+    "static/js/2.faa5b042.chunk.js",
+    "static/css/main.eab24d3c.chunk.css",
+    "static/js/main.a3b8b35a.chunk.js"
+  ]
+}
